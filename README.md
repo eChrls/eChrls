@@ -15,6 +15,7 @@
 ---
 
 ## 🚀 About Me
+
 🎯 **Full-Stack Developer** passionate about creating **accessible** and **scalable** web solutions  
 🔥 Currently building an **ERP Smart System** and collaborating on **tourism accessibility** projects  
 🏗️ **Self-hosting enthusiast** - I built and maintain my own server infrastructure  
@@ -105,12 +106,20 @@
 
 ---
 
-## 🛠️ Infrastructure & DevOps
+## Infrastructure & DevOps
 
-<div align="center">
+### Self-Hosted Server Infrastructure
+Built and maintain a comprehensive server infrastructure using Orange Pi 5 Plus hardware. The system includes containerized services, automated deployments, and complete documentation for reproducible setups.
 
-### 🏠 **Self-Hosted Server**
-Built and maintain my own server infrastructure with comprehensive documentation
+**Technical Implementation:**
+- **Hardware:** Orange Pi 5 Plus single-board computer
+- **OS:** Linux (Debian-based)
+- **Containerization:** Docker for service isolation
+- **Services:** Web servers, databases, development environments
+- **Monitoring:** System health and performance tracking
+
+**Documentation:** [server-doc.duckdns.org](https://server-doc.duckdns.org/)  
+**Repository:** [orange-pi5plus-server-docs](https://github.com/eChrls/orange-pi5plus-server-docs) comprehensive documentation
 
 **Tech Stack:** Orange Pi 5 Plus | Linux | Docker | Self-hosting
 
