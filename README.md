@@ -1,8 +1,8 @@
 <div align="center">
 
-**Full-Stack Developer Student** | **Building Accessible & Scalable Solutions**
+## **Full-Stack Developer Student** | **Building Accessible & Scalable Solutions**
 
-**Estepona, Málaga, Spain** | **Available for Junior Developer Opportunities**
+### **Estepona, Málaga, Spain** | **Available for Junior Developer Opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-carlos-torralvo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://porfolio.duckdns.org/)
