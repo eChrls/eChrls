@@ -15,29 +15,11 @@
 ---
 
 ## 🚀 About Me
-
-```javascript
-const carlos = {
-    code: ["Java", "JavaScript", "PHP", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "accessibility", "servers"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            java: ["Spring Boot"],
-            php: ["Laravel"],
-            databases: ["MySQL", "MongoDB"]
-        },
-        devOps: ["Docker", "Self-hosted servers"],
-        tools: ["VS Code", "IntelliJ", "Git", "Bash", "Vim"]
-    },
-    currentProject: "ERP Smart Portfolio System",
-    collaboration: "IncluYete Estepona - Tourism Accessibility Platform",
-    funFact: "I built my own server infrastructure!"
-};
-```
+🎯 Full-Stack Developer passionate about creating accessible and scalable web solutions
+🔥 Currently building an ERP Smart System and collaborating on tourism accessibility projects
+🏗️ Self-hosting enthusiast - I built and maintain my own server infrastructure
+🌱 Expanding skills in React, Laravel, and modern DevOps practices
+💡 Always exploring new technologies and contributing to meaningful projects
 
 > *"The best way to predict the future is to create it."*
 
