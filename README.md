@@ -118,7 +118,7 @@ Built and maintain a comprehensive server infrastructure using Orange Pi 5 Plus 
 
 **Technical Implementation:**
 - **Hardware:** Orange Pi 5 Plus single-board computer
-- **OS:** Linux (Debian-based)
+- **OS:** Linux Ubuntu Server
 - **Containerization:** Docker for service isolation
 - **Monitoring:** System health and performance tracking
 
