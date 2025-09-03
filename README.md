@@ -32,17 +32,62 @@ Always exploring new technologies and contributing to **meaningful projects**
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Database** | **Tools** |
-|--------------|-------------|--------------|-----------|
-| HTML5, CSS3 | Java | MySQL | VS Code |
-| JavaScript | Spring Boot | MongoDB | IntelliJ IDEA |
-| Tailwind CSS | PHP | | Git |
-| Bootstrap | | | Docker |
+### Languages & Frameworks
 
-**Currently Learning:** React, Laravel, Schema.org, Microservices
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>Frontend</h4>
+<img src="./icons/html5.svg" width="40" alt="HTML5"/>
+<img src="./icons/css.svg" width="40" alt="CSS3"/>
+<img src="./icons/javascript.svg" width="40" alt="JavaScript"/>
+<img src="./icons/react.svg" width="40" alt="React"/>
+<img src="./icons/tailwindcss.svg" width="40" alt="Tailwind CSS"/>
+<img src="./icons/bootstrap.svg" width="40" alt="Bootstrap"/>
+</td>
+<td align="center" width="33%">
+<h4>Backend & Database</h4>
+<img src="./icons/java.svg" width="40" alt="Java"/>
+<img src="./icons/spring-boot.svg" width="40" alt="Spring Boot"/>
+<img src="./icons/mysql.svg" width="40" alt="MySQL"/>
+<img src="./icons/mongodb.svg" width="40" alt="MongoDB"/>
+<img src="./icons/laravel.svg" width="40" alt="Laravel"/>
+</td>
+<td align="center" width="33%">
+<h4>Languages & Scripts</h4>
+<img src="./icons/bash.svg" width="40" alt="Bash"/>
+<img src="./icons/powershell.svg" width="40" alt="PowerShell"/>
+<img src="./icons/Schema.svg" width="40" alt="Schema.org"/>
+</td>
+</tr>
+</table>
 
-**Systems:** Linux (Ubuntu), Windows  
-**Languages:** Spanish (Native), English (Certified)
+### Development Environment
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>IDEs & Editors</h4>
+<img src="./icons/vscode.svg" width="40" alt="VS Code"/>
+<img src="./icons/intellij.svg" width="40" alt="IntelliJ"/>
+<img src="./icons/vim.svg" width="40" alt="Vim"/>
+<img src="./icons/notepad++.svg" width="40" alt="Notepad++"/>
+</td>
+<td align="center" width="33%">
+<h4>DevOps & Tools</h4>
+<img src="./icons/git.svg" width="40" alt="Git"/>
+<img src="./icons/github.svg" width="40" alt="GitHub"/>
+<img src="./icons/docker.svg" width="40" alt="Docker"/>
+<img src="./icons/warp.svg" width="40" alt="Warp Terminal"/>
+</td>
+<td align="center" width="33%">
+<h4>Operating Systems</h4>
+<img src="./icons/ubuntu.svg" width="40" alt="Ubuntu"/>
+<img src="./icons/windows.svg" width="40" alt="Windows"/>
+</td>
+</tr>
+</table>
+
 
 </div>
 
