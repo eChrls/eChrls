@@ -15,11 +15,11 @@
 ---
 
 ## 🚀 About Me
-🎯 Full-Stack Developer passionate about creating accessible and scalable web solutions
-🔥 Currently building an ERP Smart System and collaborating on tourism accessibility projects
-🏗️ Self-hosting enthusiast - I built and maintain my own server infrastructure
-🌱 Expanding skills in React, Laravel, and modern DevOps practices
-💡 Always exploring new technologies and contributing to meaningful projects
+🎯 **Full-Stack Developer** passionate about creating **accessible** and **scalable** web solutions  
+🔥 Currently building an **ERP Smart System** and collaborating on **tourism accessibility** projects  
+🏗️ **Self-hosting enthusiast** - I built and maintain my own server infrastructure  
+🌱 Expanding skills in **React**, **Laravel**, and modern **DevOps** practices  
+💡 Always exploring new technologies and contributing to **meaningful projects**
 
 > *"The best way to predict the future is to create it."*
 
