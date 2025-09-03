@@ -1,5 +1,3 @@
-# Carlos Torralvo
-
 <div align="center">
 
 **Full-Stack Developer Student** | **Building Accessible & Scalable Solutions**
