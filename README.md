@@ -30,65 +30,52 @@ Always exploring new technologies and contributing to **meaningful projects**
 
 <div align="center">
 
-### Languages & Frameworks
+### Frontend
 
-<table>
-<tr>
-<td align="center" width="50%">
-<h4>Frontend</h4>
-<img src="./icons/html5.svg" width="40" alt="HTML5"/>
-<img src="./icons/css.svg" width="40" alt="CSS3"/>
-<img src="./icons/javascript.svg" width="40" alt="JavaScript"/>
-<img src="./icons/react.svg" width="40" alt="React"/>
-<img src="./icons/tailwindcss.svg" width="40" alt="Tailwind CSS"/>
-<img src="./icons/bootstrap.svg" width="40" alt="Bootstrap"/>
-</td>
-<td align="center" width="50%">
-<h4>Backend & Database</h4>
-<img src="./icons/php.svg" width="40" alt="PHP"/>
-<img src="./icons/laravel.svg" width="40" alt="Laravel"/>
-<img src="./icons/java.svg" width="40" alt="Java"/>
-<img src="./icons/spring-boot.svg" width="40" alt="Spring Boot"/>
-<img src="./icons/mysql.svg" width="40" alt="MySQL"/>
-<img src="./icons/mongodb.svg" width="40" alt="MongoDB"/>
-</td>
-</tr>
-</table>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Development Environment & Infrastructure
+### Backend & Database
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h4>IDEs & Editors</h4>
-<img src="./icons/vscode.svg" width="40" alt="VS Code"/>
-<img src="./icons/intellij.svg" width="40" alt="IntelliJ"/>
-<img src="./icons/vim.svg" width="40" alt="Vim"/>
-<img src="./icons/notepad++.svg" width="40" alt="Notepad++"/>
-</td>
-<td align="center" width="25%">
-<h4>DevOps & Containers</h4>
-<img src="./icons/git.svg" width="40" alt="Git"/>
-<img src="./icons/github.svg" width="40" alt="GitHub"/>
-<img src="./icons/docker.svg" width="40" alt="Docker"/>
-<img src="./icons/kubernetes.svg" width="40" alt="Kubernetes"/>
-</td>
-<td align="center" width="25%">
-<h4>Servers & Networking</h4>
-<img src="./icons/nginx.svg" width="40" alt="Nginx"/>
-<img src="./icons/apache.svg" width="40" alt="Apache"/>
-<img src="./icons/traefik.svg" width="40" alt="Traefik"/>
-<img src="./icons/filezilla.svg" width="40" alt="FileZilla"/>
-</td>
-<td align="center" width="25%">
-<h4>Scripting & OS</h4>
-<img src="./icons/bash.svg" width="40" alt="Bash"/>
-<img src="./icons/powershell.svg" width="40" alt="PowerShell"/>
-<img src="./icons/ubuntu.svg" width="40" alt="Ubuntu"/>
-<img src="./icons/windows.svg" width="40" alt="Windows"/>
-</td>
-</tr>
-</table>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Containers
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Servers & Networking
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
+
+### Scripting & OS
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### IDEs & Editors
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
 
 </div>
 
@@ -107,7 +94,7 @@ Always exploring new technologies and contributing to **meaningful projects**
 
 ---
 
-### Smart ERP System
+### Smart ERP System (in process)
 **Comprehensive Business Management Solution**
 - Custom Enterprise Resource Planning system showcasing full-stack capabilities
 - Modern microservices architecture with containerized deployments
