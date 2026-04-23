@@ -136,11 +136,11 @@ Built and maintain a production-grade server infrastructure using **Orange Pi 5 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eChrls&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eChrls&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eChrls&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eChrls&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eChrls&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eChrls&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
