@@ -79,6 +79,7 @@ Tourism accessibility platform developed with Estepona City Council, focused on 
 - Spring Boot REST API + React frontend
 - Accessibility mapping system
 - Real-world deployment
+- Live: https://incluyete.duckdns.org/
 
 ---
 
@@ -97,8 +98,9 @@ Personal portfolio designed and developed as a production-grade system.
 
 ### ERP Smart System
 
-Modular ERP system with microservices architecture and self-hosted deployment.
+Modular ERP system with MVC architecture using Spring Boot and self-hosted deployment.
 
+- Spring Boot MVC architecture
 - Docker + Kubernetes
 - Authentication and user modules
 - Reporting and analytics system
@@ -112,16 +114,6 @@ Homelab based on Orange Pi 5 Plus with containerized services.
 - Traefik reverse proxy
 - Nginx + Apache stack
 - Monitoring and automation
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eChrls&theme=github-dark&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -158,10 +150,10 @@ Clusters
 
 <td align="center" width="25%">
 
-<strong>Cloud</strong><br>
+<strong>Cloud & DevOps</strong><br>
 AWS basics<br>
-GCP<br>
-Hybrid infra
+Microservices with Docker<br>
+Spring Boot improvement
 
 </td>
 </tr>
@@ -190,7 +182,7 @@ Hybrid infra
 
 <tr>
 <td><strong>Self-learning</strong></td>
-<td>Docker · Kubernetes · Laravel · React</td>
+<td>Docker · Kubernetes · Laravel · React · Spring Boot</td>
 </tr>
 
 </table>
