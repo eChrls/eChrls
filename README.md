@@ -1,172 +1,244 @@
+<!-- ANIMATED HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=José%20Carlos%20Torralvo&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20DevOps%20Enthusiast%20·%20Accessibility%20Advocate&descAlignY=60&descSize=16&descColor=8b949e" />
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+accessible+%26+scalable+web+solutions;Full-Stack+%7C+Spring+Boot+%2B+React+%7C+Laravel;Self-hosted+infra+on+Orange+Pi+5+Plus+%F0%9F%A6%BE;Open+to+Junior+Developer+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
 <div align="center">
 
-## **Full-Stack Developer Student** | **Building Accessible & Scalable Solutions**
-
-### **Estepona, Málaga, Spain** | **Available for Junior Developer Opportunities**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-carlos-torralvo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://webportfolio.app/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.carlos.torralvo@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-José%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-carlos-torralvo/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-webportfolio.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://webportfolio.app/)
+  [![Email](https://img.shields.io/badge/Email-j.carlos.torralvo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.carlos.torralvo@gmail.com)
+  [![Location](https://img.shields.io/badge/📍-Estepona%2C%20Málaga%2C%20Spain-1e90ff?style=for-the-badge)](https://maps.google.com/?q=Estepona)
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-**Full-Stack Developer** passionate about creating **accessible** and **scalable** web solutions
-
-Currently building an **ERP Smart System** and collaborating on **tourism accessibility** projects
-
-**Self-hosting enthusiast** — I built and maintain my own server infrastructure on Orange Pi 5 Plus
-
-Expanding skills in **React**, **Laravel**, **Kubernetes** and modern **DevOps** practices
-
-Always exploring new technologies and contributing to **meaningful projects**
+```typescript
+const joseCarlos = {
+  role:       "Full-Stack Developer Student",
+  location:   "Estepona, Málaga 🇪🇸",
+  focus:      ["Accessible Web Apps", "Scalable APIs", "DevOps & Self-hosting"],
+  currentWork: [
+    "♿ Incluyete Estepon@ — Tourism Accessibility Platform",
+    "🏢 Smart ERP System — Microservices Architecture"
+  ],
+  infrastructure: "Self-hosted on Orange Pi 5 Plus 🦾",
+  openTo:     "Junior Developer roles (Remote | On-site | Hybrid)"
+};
+```
 
 ---
 
-## Technical Stack
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
 
 <div align="center">
 
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Containers
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### Servers & Networking
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
-
-### Scripting & OS
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### IDEs & Editors
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![Warp](https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)
+  ![HTML5](https://skillicons.dev/icons?i=html)
+  ![CSS3](https://skillicons.dev/icons?i=css)
+  ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![React](https://skillicons.dev/icons?i=react)
+  ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+  ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 </div>
 
+### ⚙️ Backend & Databases
+
+<div align="center">
+
+  ![PHP](https://skillicons.dev/icons?i=php)
+  ![Laravel](https://skillicons.dev/icons?i=laravel)
+  ![Java](https://skillicons.dev/icons?i=java)
+  ![Spring](https://skillicons.dev/icons?i=spring)
+  ![MySQL](https://skillicons.dev/icons?i=mysql)
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+</div>
+
+### 🚀 DevOps & Infrastructure
+
+<div align="center">
+
+  ![Git](https://skillicons.dev/icons?i=git)
+  ![GitHub](https://skillicons.dev/icons?i=github)
+  ![Docker](https://skillicons.dev/icons?i=docker)
+  ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+  ![Nginx](https://skillicons.dev/icons?i=nginx)
+  ![Linux](https://skillicons.dev/icons?i=linux)
+  ![Bash](https://skillicons.dev/icons?i=bash)
+
+</div>
+
+### 🧰 Tools & IDEs
+
+<div align="center">
+
+  ![VS Code](https://skillicons.dev/icons?i=vscode)
+  ![IntelliJ](https://skillicons.dev/icons?i=idea)
+  ![Vim](https://skillicons.dev/icons?i=vim)
+  ![Windows](https://skillicons.dev/icons?i=windows)
+  ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+
+</div>
+
+> 💡 Icons powered by [skillicons.dev](https://skillicons.dev)
+
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ♿ Incluyete Estepon@
-**Tourism Accessibility Platform**
-- Collaboration with **Estepona City Council** to improve inclusive tourism
-- Full-stack development: REST API with Spring Boot + frontend with React
-- Focused on enhancing accessibility for people with disabilities across tourist spots
-- Integration with local services and interactive accessibility maps
+**Tourism Accessibility Platform** · 🚧 *In Development*
 
-**Organization:** [AsociacionIncluyete](https://github.com/AsociacionIncluyete)
+> 🔗 **Live preview:** [incluyete.duckdns.org](https://incluyete.duckdns.org/)
+> 
+> 🏛️ **Organization:** [AsociacionIncluyete](https://github.com/AsociacionIncluyete)
 
----
+Collaboration with **Estepona City Council** to make tourism more inclusive for people with disabilities.
 
-### Smart ERP System (in process)
-**Comprehensive Business Management Solution**
-- Custom Enterprise Resource Planning system showcasing full-stack capabilities
-- Modern microservices architecture with containerized deployments
-- Self-hosted on custom server infrastructure with CI/CD pipelines
-- Modules: inventory, reporting, user management, and more
+- 🧩 REST API built with **Spring Boot**
+- ⚛️ Frontend in **React**
+- 🗺️ Interactive accessibility maps
+- 🤝 Real impact on local inclusive tourism
 
-**Live Demo:** [webportfolio.app](https://webportfolio.app/)
+</td>
+<td width="50%" valign="top">
 
----
+### 🏢 Smart ERP System
+**Comprehensive Business Management** · 🚧 *In Progress*
 
-## Infrastructure & DevOps
+> 🔗 **Demo:** [webportfolio.app](https://webportfolio.app/)
 
-### Self-Hosted Server Infrastructure
-Built and maintain a production-grade server infrastructure using **Orange Pi 5 Plus** hardware. The stack runs fully containerized services with automated deployments, reverse proxying, and complete documentation.
+Custom ERP solution with modern microservices architecture and self-hosted CI/CD.
 
-**Technical Implementation:**
-- **Hardware:** Orange Pi 5 Plus single-board computer
-- **OS:** Linux Ubuntu Server
-- **Containerization:** Docker + Kubernetes for orchestration
-- **Reverse Proxy:** Traefik for automatic SSL and routing
-- **Web Servers:** Nginx & Apache for static and dynamic content
-- **Monitoring:** System health dashboards and performance tracking
+- 🏗️ **Microservices** architecture
+- 🐳 **Docker + Kubernetes** deployments
+- 📦 Modules: inventory, users, reports
+- ⚙️ Self-hosted on custom server infra
 
-**Documentation:** [server-doc.duckdns.org](https://server-doc.duckdns.org/)
-**Repository:** [orange-pi5plus-server-docs](https://github.com/eChrls/orange-pi5plus-server-docs)
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Learning
+## 🖥️ Self-Hosted Infrastructure
 
-- **Advanced React** — hooks, context, performance optimization
-- **Laravel** — Filament, Livewire, API development
-- **Kubernetes** — cluster management, Helm charts, scaling strategies
-- **Cloud fundamentals** — exploring AWS/GCP for hybrid self-hosted deployments
+> **Homelab running on [Orange Pi 5 Plus](https://github.com/eChrls/orange-pi5plus-server-docs)** — production-grade stack, fully containerized.
+
+```
+📦 Hardware    →  Orange Pi 5 Plus (ARM SBC)
+🐧 OS          →  Ubuntu Server (Linux)
+🐳 Containers  →  Docker + Kubernetes
+🔀 Proxy       →  Traefik (auto SSL, routing)
+🌐 Web         →  Nginx + Apache
+📊 Monitoring  →  Health dashboards & metrics
+```
+
+📖 **Full documentation:** [server-doc.duckdns.org](https://server-doc.duckdns.org/)  
+📂 **Repository:** [orange-pi5plus-server-docs](https://github.com/eChrls/orange-pi5plus-server-docs)
 
 ---
 
-## GitHub Analytics
+## 📈 GitHub Analytics
+
+<!--
+  ⚠️  STATS NOTICE:
+  The public Vercel instance of github-readme-stats often hits rate limits.
+  For reliable stats, self-host your own instance:
+  👉 Fork: https://github.com/anuraghazra/github-readme-stats
+  👉 Deploy on Vercel with your PAT_1 environment variable
+  👉 Or use: https://github.com/utkuozdemir/github-readme-stats-selfhosted
+  Then replace the URLs below with your own hosted domain.
+-->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eChrls&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eChrls&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eChrls&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eChrls&theme=dracula&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eChrls&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=eChrls&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=eChrls&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## Education & Experience
-
-- **Higher Technician Diploma** — Web Application Development (DAW)
-- **Internship** — IDB Mobile Technology
-- **Self-directed learning** — Docker, Kubernetes, Laravel, React (Udemy, freeCodeCamp, official docs)
-- **Open Source Contributor** — Incluyete Estepon@ accessibility platform
-
----
-
-## Let's Connect
+## 📚 Currently Learning
 
 <div align="center">
 
-**I'm actively seeking Junior Developer opportunities!**
+| 🔭 Topic | 📖 Focus |
+|---------|---------|
+| ⚛️ **Advanced React** | Hooks, Context API, performance optimization |
+| 🔴 **Laravel** | Filament, Livewire, API development |
+| ☸️ **Kubernetes** | Helm charts, cluster management, scaling |
+| ☁️ **Cloud** | AWS/GCP for hybrid self-hosted deployments |
 
-**Available for:** Remote | On-site | Hybrid positions
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-carlos-torralvo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me)](https://webportfolio.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:j.carlos.torralvo@gmail.com)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=eChrls&color=blueviolet&style=flat-square&label=Profile+Views)
+## 🎓 Education & Experience
 
+<div align="center">
+
+| 🏫 | Detail |
+|----|--------|
+| 🎓 | **Higher Technician Diploma** — Web Application Development (DAW) |
+| 💼 | **Internship** — IDB Mobile Technology |
+| 🌍 | **Open Source** — Incluyete Estepon@ accessibility platform |
+| 📺 | **Self-learning** — Docker, Kubernetes, Laravel, React (Udemy · freeCodeCamp · Official Docs) |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**✨ Open to Junior Developer opportunities — Remote · On-site · Hybrid ✨**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-carlos-torralvo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20my%20work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://webportfolio.app/)
+[![Email](https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.carlos.torralvo@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=eChrls&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
+
+<!-- ANIMATED FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 </div>
