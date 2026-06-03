@@ -72,120 +72,151 @@ Currently collaborating on real-world projects with public sector impact and bui
 
 ## Featured Projects
 
-### Inclúyete Estepon@ — in development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Tourism accessibility platform developed with Estepona City Council, focused on inclusive tourism and accessibility data.
+### Inclúyete Estepon@
 
-- Spring Boot REST API + React frontend
+![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-238636?style=flat-square)
+![Type](https://img.shields.io/badge/TYPE-PUBLIC%20SECTOR-0A66C2?style=flat-square)
+![Award](https://img.shields.io/badge/AWARD-1st%20PRIZE-B8860B?style=flat-square)
+
+> Platform developed with **Estepona City Council** focused on inclusive tourism and accessibility data.
+
+**Stack:**
+`Spring Boot` · `React` · `REST API` · `WCAG AAA`
+
 - Accessibility mapping system
-- Real-world deployment
-- Live: https://incluyete.duckdns.org/
+- Real-world public deployment
+- 5-person dev team lead
 
----
+**[→ incluyete.duckdns.org](https://incluyete.duckdns.org/)**
 
-### Portfolio Platform — main project
+</td>
+<td width="50%" valign="top">
 
-Personal portfolio designed and developed as a production-grade system.
+### Portfolio Platform
 
-- Full design and architecture ownership
-- Performance optimized frontend
-- CI/CD deployment and self-hosting
-- Live: https://webportfolio.app
+![Status](https://img.shields.io/badge/STATUS-LIVE-238636?style=flat-square)
+![Type](https://img.shields.io/badge/TYPE-MAIN%20PROJECT-6e40c9?style=flat-square)
+![Hosting](https://img.shields.io/badge/HOSTING-SELF%20HOSTED-58A6FF?style=flat-square)
+
+> Personal portfolio built as a **production-grade system** from architecture to deployment.
+
+**Stack:**
+`HTML` · `CSS` · `JS` · `Self-hosted`
+
+- Full design & architecture ownership
+- Performance-optimized frontend
+- CI/CD + self-hosting pipeline
+
+**[→ webportfolio.app](https://webportfolio.app)**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Current Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### ERP Smart System
 
-Modular ERP system with MVC architecture using Spring Boot and self-hosted deployment.
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-B8860B?style=flat-square)
+![Type](https://img.shields.io/badge/TYPE-ENTERPRISE-0A66C2?style=flat-square)
 
-- Spring Boot MVC architecture
-- Docker + Kubernetes
-- Authentication and user modules
-- Reporting and analytics system
+> Modular ERP with **Spring Boot MVC** architecture and self-hosted deployment.
 
----
+`Docker` · `Kubernetes` · `Spring Boot`
+
+- Auth & user modules
+- Reporting & analytics
+- Scalable microservice design
+
+</td>
+<td width="50%" valign="top">
 
 ### Self-hosted Infrastructure
 
-Homelab based on Orange Pi 5 Plus with containerized services.
+![Status](https://img.shields.io/badge/STATUS-RUNNING-238636?style=flat-square)
+![Hardware](https://img.shields.io/badge/HW-ORANGE%20PI%205%20PLUS-EA4335?style=flat-square)
 
-- Traefik reverse proxy
+> Personal lab on **Orange Pi 5 Plus** with fully containerized services.
+
+`Traefik` · `Nginx` · `Docker` · `Bash`
+
+- Reverse proxy & SSL automation
 - Nginx + Apache stack
-- Monitoring and automation
+- Monitoring & backup automation
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Currently Learning
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
 
-<strong>React</strong><br>
-Advanced hooks<br>
-Performance<br>
-State management
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br><sub>Advanced hooks</sub>
+<br><sub>Performance</sub>
+<br><sub>State management</sub>
 
 </td>
-
 <td align="center" width="25%">
 
-<strong>Laravel</strong><br>
-Filament<br>
-Livewire<br>
-APIs
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<br><sub>Filament</sub>
+<br><sub>Livewire</sub>
+<br><sub>APIs</sub>
 
 </td>
-
 <td align="center" width="25%">
 
-<strong>Kubernetes</strong><br>
-Helm charts<br>
-Scaling<br>
-Clusters
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<br><sub>Helm charts</sub>
+<br><sub>Scaling</sub>
+<br><sub>Clusters</sub>
 
 </td>
-
 <td align="center" width="25%">
 
-<strong>Cloud & DevOps</strong><br>
-AWS basics<br>
-Microservices with Docker<br>
-Spring Boot improvement
+![AWS](https://img.shields.io/badge/Cloud%20%26%20DevOps-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br><sub>AWS basics</sub>
+<br><sub>Microservices</sub>
+<br><sub>Spring Boot++</sub>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## Education
 
-<table>
+<div align="center">
 
-<tr>
-<td><strong>Higher Technician Diploma</strong></td>
-<td>Web Application Development (DAW)</td>
-</tr>
+| | |
+|:---:|:---|
+| ![DAW](https://img.shields.io/badge/DIPLOMA-DAW-58A6FF?style=flat-square) | **Higher Technician Diploma** — Web Application Development |
+| ![IDB](https://img.shields.io/badge/INTERNSHIP-IDB%20Mobile-238636?style=flat-square) | IDB Mobile Technology |
+| ![OS](https://img.shields.io/badge/OPEN%20SOURCE-Inclúyete-6e40c9?style=flat-square) | Inclúyete Estepon@ Accessibility Platform |
+| ![Self](https://img.shields.io/badge/SELF--LEARNING-ongoing-B8860B?style=flat-square) | Docker · Kubernetes · Laravel · React · Spring Boot |
 
-<tr>
-<td><strong>Internship</strong></td>
-<td>IDB Mobile Technology</td>
-</tr>
-
-<tr>
-<td><strong>Open Source</strong></td>
-<td>Inclúyete Estepon@ Accessibility Platform</td>
-</tr>
-
-<tr>
-<td><strong>Self-learning</strong></td>
-<td>Docker · Kubernetes · Laravel · React · Spring Boot</td>
-</tr>
-
-</table>
+</div>
 
 ---
 
