@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://webportfolio.app/cv/cv.html">
-  <img src="https://img.shields.io/badge/CV-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-2d333b?style=for-the-badge&logo=visualstudiocode&logoColor=90A4AE"/>
 </a>
 
 <a href="https://webportfolio.app">
@@ -15,7 +15,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jose-carlos-torralvo/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:j.carlos.torralvo@gmail.com">
@@ -229,11 +229,11 @@ Currently collaborating on real-world projects with public sector impact and bui
 </a>
 
 <a href="https://webportfolio.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-238636?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-2d333b?style=for-the-badge&logo=visualstudiocode&logoColor=90A4AE"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jose-carlos-torralvo/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:j.carlos.torralvo@gmail.com">
