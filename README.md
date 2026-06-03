@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=José%20Carlos%20Torralvo&fontSize=44&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20DevOps%20·%20Accessibility&descAlignY=60&descSize=15&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=José%20Carlos%20Torralvo&fontSize=44&fontColor=B0BEC5&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20·%20DevOps%20·%20Accessibility&descAlignY=60&descSize=15&descColor=90A4AE" />
 </div>
 
 <!-- CTA BUTTONS -->
