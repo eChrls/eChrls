@@ -7,11 +7,11 @@
 <div align="center">
 
 <a href="https://webportfolio.app/cv/cv.html">
-  <img src="https://img.shields.io/badge/PORTFOLIO-2d333b?style=for-the-badge&logo=visualstudiocode&logoColor=90A4AE"/>
+   <img src="https://img.shields.io/badge/CV-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 <a href="https://webportfolio.app">
-  <img src="https://img.shields.io/badge/PORTFOLIO-238636?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-2d333b?style=for-the-badge&logo=visualstudiocode&logoColor=90A4AE"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jose-carlos-torralvo/">
